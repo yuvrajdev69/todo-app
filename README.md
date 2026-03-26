@@ -8,4 +8,4 @@ A simple task management app built using HTML, CSS, and JavaScript.
 - Data saved using localStorage
 
 ## Live Demo
-(Coming Soon)
+(https://todo-app-nine-nu-26.vercel.app/)
